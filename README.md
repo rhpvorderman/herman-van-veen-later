@@ -1,2 +1,3 @@
 # herman-van-veen-later
-Het lied "Later" van Herman van Veen, geschreven in Lilypond
+Het lied "Later" van Herman van Veen, geschreven met GNU Denemo
+
