@@ -4,13 +4,13 @@
     <papersize>a4</papersize>
     <fontsize>18</fontsize>
     <orientation>1</orientation>
-    <total-edit-time>6121</total-edit-time>
+    <total-edit-time>8355</total-edit-time>
   </lilycontrol>
   <movement-number>1</movement-number>
   <movement>
     <edit-info>
-      <staffno>2</staffno>
-      <measureno>1</measureno>
+      <staffno>3</staffno>
+      <measureno>84</measureno>
       <cursorposition>0</cursorposition>
       <tonalcenter>4</tonalcenter>
       <zoom>100</zoom>
@@ -3065,12 +3065,6 @@ dat staat vast</verse>
               </notes>
             </chord>
           </measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
         </measures>
       </voice>
       <voice id="id640">
@@ -4478,12 +4472,6 @@ dat staat vast</verse>
           <measure></measure>
           <measure></measure>
           <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
         </measures>
       </voice>
       <voice id="id935">
@@ -4535,12 +4523,6 @@ dat staat vast</verse>
           </staff-directives>
         </voice-props>
         <measures>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
-          <measure></measure>
           <measure></measure>
           <measure></measure>
           <measure></measure>
