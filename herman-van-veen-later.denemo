@@ -1,16 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <score xmlns="http://denemo.org/xmlns/Denemo" version="8">
+  <scoreheader-directives>
+    <directive>
+      <tag>BookArranger</tag>
+      <postfix>arranger = \markup { \with-url #'"scheme:(d-BookArranger)" {"Ruben Vorderman"}}
+</postfix>
+      <display>"Ruben Vor...</display>
+      <data>"Ruben Vorderman"</data>
+      <override>36</override>
+    </directive>
+    <directive>
+      <tag>BookComposer</tag>
+      <postfix>composer = \markup { \with-url #'"scheme:(d-BookComposer)" {"Herman van Veen"}}
+</postfix>
+      <display>"Herman va...</display>
+      <data>"Herman van Veen"</data>
+      <override>36</override>
+    </directive>
+    <directive>
+      <tag>ScoreTitles</tag>
+      <postfix>     dedication = ##f
+     title = \markup \with-url #'"scheme:(DenemoSetTitles \"ScoreTitles\" 'title #t)"  {Later}
+     subtitle = ##f
+     subsubtitle = ##f
+     instrument = ##f
+     poet = \markup \with-url #'"scheme:(DenemoSetTitles \"ScoreTitles\" 'poet #t)"  {tekst: Simon Carmiggelt}
+     composer = \markup \with-url #'"scheme:(DenemoSetTitles \"ScoreTitles\" 'composer #t)"  {melodie: Herman van Veen}
+     meter = \markup \with-url #'"scheme:(DenemoSetTitles \"ScoreTitles\" 'meter #t)"  {}
+     arranger = \markup \with-url #'"scheme:(DenemoSetTitles \"ScoreTitles\" 'arranger #t)"  {gearrangeeerd door Ruben Vorderman}
+     tagline = ##f
+     copyright = ##f
+     piece = ##f
+     opus = ##f
+</postfix>
+      <display>Score Titles</display>
+      <data>(list (cons 'dedication #f)(cons 'title "Later")(cons 'subtitle #f)(cons 'subsubtitle #f)(cons 'instrument #f)(cons 'poet "tekst: Simon Carmiggelt")(cons 'composer "melodie: Herman van Veen")(cons 'meter "")(cons 'arranger "gearrangeeerd door Ruben Vorderman")(cons 'tagline #f)(cons 'copyright #f)(cons 'piece #f)(cons 'opus #f) '())</data>
+      <override>4</override>
+    </directive>
+  </scoreheader-directives>
   <lilycontrol>
     <papersize>a4</papersize>
     <fontsize>18</fontsize>
     <orientation>1</orientation>
-    <total-edit-time>9907</total-edit-time>
+    <total-edit-time>11948</total-edit-time>
   </lilycontrol>
   <movement-number>1</movement-number>
   <movement>
     <edit-info>
-      <staffno>3</staffno>
-      <measureno>1</measureno>
+      <staffno>2</staffno>
+      <measureno>2</measureno>
       <cursorposition>0</cursorposition>
       <tonalcenter>4</tonalcenter>
       <zoom>100</zoom>
