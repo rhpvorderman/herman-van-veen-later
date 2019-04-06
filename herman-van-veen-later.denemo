@@ -42,13 +42,13 @@
     <papersize>a4</papersize>
     <fontsize>18</fontsize>
     <orientation>1</orientation>
-    <total-edit-time>14094</total-edit-time>
+    <total-edit-time>14374</total-edit-time>
   </lilycontrol>
   <movement-number>1</movement-number>
   <movement>
     <edit-info>
       <staffno>3</staffno>
-      <measureno>84</measureno>
+      <measureno>82</measureno>
       <cursorposition>0</cursorposition>
       <tonalcenter>4</tonalcenter>
       <zoom>100</zoom>
@@ -3117,7 +3117,7 @@ dat staat vast</verse>
               </notes>
             </chord>
             <rest show="true" id="id643">
-              <duration base="quarter"></duration>
+              <duration base="half"></duration>
             </rest>
           </measure>
           <measure>
