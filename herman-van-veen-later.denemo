@@ -48,8 +48,8 @@
   <movement>
     <edit-info>
       <staffno>1</staffno>
-      <measureno>66</measureno>
-      <cursorposition>5</cursorposition>
+      <measureno>84</measureno>
+      <cursorposition>0</cursorposition>
       <tonalcenter>4</tonalcenter>
       <zoom>100</zoom>
       <system-height>100</system-height>
@@ -6280,21 +6280,22 @@ dat staat vast</verse>
               </notes>
             </chord>
           </measure>
-          <measure></measure>
           <measure>
             <chord show="true" id="id1369">
-              <duration base="eighth"></duration>
+              <duration base="whole"></duration>
               <notes>
                 <note id="id1370">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>16</middle-c-offset>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1371">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1372">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6302,8 +6303,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1374">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6311,7 +6311,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1376">
-                  <middle-c-offset>13</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6319,7 +6320,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1378">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6327,7 +6328,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1380">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6335,8 +6336,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1382">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6344,26 +6344,26 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1384">
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1385">
+              <duration base="eighth"></duration>
+              <notes>
+                <note id="id1386">
                   <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
           </measure>
           <measure>
-            <chord show="true" id="id1385">
-              <duration base="eighth"></duration>
-              <notes>
-                <note id="id1386">
-                  <middle-c-offset>6</middle-c-offset>
-                </note>
-              </notes>
-            </chord>
             <chord show="true" id="id1387">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1388">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6371,7 +6371,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1390">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -6380,7 +6380,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1392">
-                  <middle-c-offset>13</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6388,7 +6389,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1394">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6396,7 +6397,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1396">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6404,8 +6405,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1398">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6413,26 +6413,27 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1400">
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1401">
+              <duration base="eighth"></duration>
+              <notes>
+                <note id="id1402">
                   <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
           </measure>
           <measure>
-            <chord show="true" id="id1401">
-              <duration base="eighth"></duration>
-              <notes>
-                <note id="id1402">
-                  <middle-c-offset>7</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
-                </note>
-              </notes>
-            </chord>
             <chord show="true" id="id1403">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1404">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6440,7 +6441,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1406">
-                  <middle-c-offset>12</middle-c-offset>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6448,8 +6449,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1408">
-                  <middle-c-offset>14</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>12</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6457,7 +6457,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1410">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>14</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6465,7 +6466,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1412">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6473,8 +6474,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1414">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6482,26 +6482,26 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1416">
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1417">
+              <duration base="eighth"></duration>
+              <notes>
+                <note id="id1418">
                   <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
           </measure>
           <measure>
-            <chord show="true" id="id1417">
-              <duration base="eighth"></duration>
-              <notes>
-                <note id="id1418">
-                  <middle-c-offset>6</middle-c-offset>
-                </note>
-              </notes>
-            </chord>
             <chord show="true" id="id1419">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1420">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6509,7 +6509,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1422">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -6518,7 +6518,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1424">
-                  <middle-c-offset>12</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6526,8 +6527,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1426">
-                  <middle-c-offset>7</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>12</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6535,7 +6535,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1428">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6543,8 +6544,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1430">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6552,6 +6552,15 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1432">
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1433">
+              <duration base="eighth"></duration>
+              <notes>
+                <note id="id1434">
                   <middle-c-offset>14</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
@@ -6559,20 +6568,11 @@ dat staat vast</verse>
             </chord>
           </measure>
           <measure>
-            <chord show="true" id="id1433">
-              <duration base="eighth"></duration>
-              <notes>
-                <note id="id1434">
-                  <middle-c-offset>6</middle-c-offset>
-                </note>
-              </notes>
-            </chord>
             <chord show="true" id="id1435">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1436">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6580,7 +6580,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1438">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -6589,7 +6589,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1440">
-                  <middle-c-offset>13</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6597,7 +6598,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1442">
-                  <middle-c-offset>5</middle-c-offset>
+                  <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6605,8 +6606,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1444">
-                  <middle-c-offset>7</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>5</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6614,7 +6614,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1446">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6622,26 +6623,26 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1448">
+                  <middle-c-offset>9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1449">
+              <duration base="eighth"></duration>
+              <notes>
+                <note id="id1450">
                   <middle-c-offset>12</middle-c-offset>
                 </note>
               </notes>
             </chord>
           </measure>
           <measure>
-            <chord show="true" id="id1449">
-              <duration base="eighth"></duration>
-              <notes>
-                <note id="id1450">
-                  <middle-c-offset>4</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
-                </note>
-              </notes>
-            </chord>
             <chord show="true" id="id1451">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1452">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>4</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6649,8 +6650,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1454">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6658,7 +6658,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1456">
-                  <middle-c-offset>11</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -6667,7 +6667,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1458">
-                  <middle-c-offset>3</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -6676,7 +6676,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1460">
-                  <middle-c-offset>5</middle-c-offset>
+                  <middle-c-offset>3</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6684,8 +6685,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1462">
-                  <middle-c-offset>7</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>5</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6693,6 +6693,15 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1464">
+                  <middle-c-offset>7</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1465">
+              <duration base="eighth"></duration>
+              <notes>
+                <note id="id1466">
                   <middle-c-offset>10</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
@@ -6700,20 +6709,12 @@ dat staat vast</verse>
             </chord>
           </measure>
           <measure>
-            <chord show="true" id="id1465">
-              <duration base="eighth"></duration>
-              <notes>
-                <note id="id1466">
-                  <middle-c-offset>3</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
-                </note>
-              </notes>
-            </chord>
             <chord show="true" id="id1467">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1468">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>3</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6721,8 +6722,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1470">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6730,7 +6730,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1472">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -6739,7 +6739,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1474">
-                  <middle-c-offset>5</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6747,8 +6748,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1476">
-                  <middle-c-offset>7</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>5</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6756,7 +6756,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1478">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6764,26 +6765,25 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1480">
+                  <middle-c-offset>9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1481">
+              <duration base="eighth"></duration>
+              <notes>
+                <note id="id1482">
                   <middle-c-offset>12</middle-c-offset>
                 </note>
               </notes>
             </chord>
           </measure>
           <measure>
-            <chord show="true" id="id1481">
-              <duration base="eighth"></duration>
-              <notes>
-                <note id="id1482">
-                  <middle-c-offset>6</middle-c-offset>
-                </note>
-              </notes>
-            </chord>
             <chord show="true" id="id1483">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1484">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6791,7 +6791,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1486">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -6800,7 +6800,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1488">
-                  <middle-c-offset>12</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -6808,7 +6809,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1490">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>12</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6816,7 +6817,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1492">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6824,8 +6825,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1494">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6833,13 +6833,11 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1496">
-                  <middle-c-offset>13</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure></measure>
-          <measure>
             <chord show="true" id="id1497">
               <duration base="eighth"></duration>
               <notes>
@@ -6848,15 +6846,19 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1499">
-              <duration base="eighth"></duration>
+              <duration base="whole"></duration>
               <notes>
                 <note id="id1500">
-                  <middle-c-offset>11</middle-c-offset>
+                  <middle-c-offset>17</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1501">
               <duration base="eighth"></duration>
               <notes>
@@ -6908,8 +6910,6 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1513">
               <duration base="eighth"></duration>
               <notes>
@@ -6922,11 +6922,13 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1516">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1517">
               <duration base="eighth"></duration>
               <notes>
@@ -6956,7 +6958,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1524">
-                  <middle-c-offset>11</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -6978,14 +6980,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1529">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1530">
-                  <middle-c-offset>14</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -6993,10 +6992,13 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1532">
-                  <middle-c-offset>12</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1533">
               <duration base="eighth"></duration>
               <notes>
@@ -7018,7 +7020,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1538">
-                  <middle-c-offset>13</middle-c-offset>
+                  <middle-c-offset>14</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7026,8 +7029,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1540">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>12</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7048,13 +7050,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1545">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1546">
-                  <middle-c-offset>12</middle-c-offset>
+                  <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7062,11 +7062,13 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1548">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1549">
               <duration base="eighth"></duration>
               <notes>
@@ -7088,8 +7090,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1554">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>12</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7097,7 +7098,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1556">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7118,13 +7120,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1561">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1562">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7133,11 +7133,12 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1564">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1565">
               <duration base="eighth"></duration>
               <notes>
@@ -7160,7 +7161,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1570">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7168,7 +7170,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1572">
-                  <middle-c-offset>7</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7190,14 +7192,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1577">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1578">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7205,10 +7204,13 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1580">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1581">
               <duration base="eighth"></duration>
               <notes>
@@ -7230,7 +7232,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1586">
-                  <middle-c-offset>7</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7239,7 +7241,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1588">
-                  <middle-c-offset>5</middle-c-offset>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7260,13 +7262,12 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1593">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1594">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7274,11 +7275,12 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1596">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>5</middle-c-offset>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1597">
               <duration base="eighth"></duration>
               <notes>
@@ -7300,8 +7302,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1602">
-                  <middle-c-offset>7</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7309,7 +7310,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1604">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7330,13 +7332,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1609">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1610">
-                  <middle-c-offset>8</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7345,11 +7345,12 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1612">
-                  <middle-c-offset>10</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1613">
               <duration base="eighth"></duration>
               <notes>
@@ -7372,7 +7373,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1618">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7380,7 +7382,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1620">
-                  <middle-c-offset>11</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7389,7 +7391,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1622">
-                  <middle-c-offset>13</middle-c-offset>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7397,13 +7399,11 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1624">
-                  <middle-c-offset>16</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure></measure>
-          <measure>
             <chord show="true" id="id1625">
               <duration base="eighth"></duration>
               <notes>
@@ -7416,11 +7416,13 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1628">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>16</middle-c-offset>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure></measure>
+          <measure>
             <chord show="true" id="id1629">
               <duration base="eighth"></duration>
               <notes>
@@ -7472,8 +7474,6 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1641">
               <duration base="eighth"></duration>
               <notes>
@@ -7486,11 +7486,13 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1644">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1645">
               <duration base="eighth"></duration>
               <notes>
@@ -7520,7 +7522,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1652">
-                  <middle-c-offset>11</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7542,14 +7544,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1657">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1658">
-                  <middle-c-offset>14</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7557,10 +7556,13 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1660">
-                  <middle-c-offset>12</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1661">
               <duration base="eighth"></duration>
               <notes>
@@ -7582,7 +7584,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1666">
-                  <middle-c-offset>13</middle-c-offset>
+                  <middle-c-offset>14</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7590,8 +7593,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1668">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>12</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7612,13 +7614,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1673">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1674">
-                  <middle-c-offset>12</middle-c-offset>
+                  <middle-c-offset>13</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7626,11 +7626,13 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1676">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1677">
               <duration base="eighth"></duration>
               <notes>
@@ -7652,8 +7654,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1682">
-                  <middle-c-offset>11</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>12</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7661,7 +7662,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1684">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7682,13 +7684,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1689">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1690">
-                  <middle-c-offset>10</middle-c-offset>
+                  <middle-c-offset>11</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7697,11 +7697,12 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1692">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1693">
               <duration base="eighth"></duration>
               <notes>
@@ -7724,7 +7725,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1698">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7732,7 +7734,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1700">
-                  <middle-c-offset>7</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7754,14 +7756,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1705">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1706">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7769,10 +7768,13 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1708">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1709">
               <duration base="eighth"></duration>
               <notes>
@@ -7794,7 +7796,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1714">
-                  <middle-c-offset>7</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7803,7 +7805,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1716">
-                  <middle-c-offset>5</middle-c-offset>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7824,13 +7826,12 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1721">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1722">
-                  <middle-c-offset>6</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7838,11 +7839,12 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1724">
-                  <middle-c-offset>8</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>5</middle-c-offset>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1725">
               <duration base="eighth"></duration>
               <notes>
@@ -7864,8 +7866,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1730">
-                  <middle-c-offset>7</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>6</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7873,7 +7874,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1732">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7894,13 +7896,11 @@ dat staat vast</verse>
                 </note>
               </notes>
             </chord>
-          </measure>
-          <measure>
             <chord show="true" id="id1737">
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1738">
-                  <middle-c-offset>8</middle-c-offset>
+                  <middle-c-offset>7</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7909,11 +7909,12 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1740">
-                  <middle-c-offset>10</middle-c-offset>
-                  <accidental name="sharp" show="false"></accidental>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
+          </measure>
+          <measure>
             <chord show="true" id="id1741">
               <duration base="eighth"></duration>
               <notes>
@@ -7936,7 +7937,8 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1746">
-                  <middle-c-offset>9</middle-c-offset>
+                  <middle-c-offset>8</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
             </chord>
@@ -7944,7 +7946,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1748">
-                  <middle-c-offset>11</middle-c-offset>
+                  <middle-c-offset>10</middle-c-offset>
                   <accidental name="sharp" show="false"></accidental>
                 </note>
               </notes>
@@ -7953,7 +7955,7 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1750">
-                  <middle-c-offset>13</middle-c-offset>
+                  <middle-c-offset>9</middle-c-offset>
                 </note>
               </notes>
             </chord>
@@ -7961,19 +7963,36 @@ dat staat vast</verse>
               <duration base="eighth"></duration>
               <notes>
                 <note id="id1752">
+                  <middle-c-offset>11</middle-c-offset>
+                  <accidental name="sharp" show="false"></accidental>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1753">
+              <duration base="eighth"></duration>
+              <notes>
+                <note id="id1754">
+                  <middle-c-offset>13</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1755">
+              <duration base="eighth"></duration>
+              <notes>
+                <note id="id1756">
                   <middle-c-offset>16</middle-c-offset>
                 </note>
               </notes>
             </chord>
           </measure>
           <measure>
-            <chord show="true" id="id1753">
+            <chord show="true" id="id1757">
               <duration base="whole"></duration>
               <notes>
-                <note id="id1754">
+                <note id="id1758">
                   <middle-c-offset>9</middle-c-offset>
                 </note>
-                <note id="id1755">
+                <note id="id1759">
                   <middle-c-offset>16</middle-c-offset>
                 </note>
               </notes>
@@ -7981,7 +8000,7 @@ dat staat vast</verse>
           </measure>
         </measures>
       </voice>
-      <voice id="id1756">
+      <voice id="id1760">
         <voice-info>
           <voice-name>Piano</voice-name>
           <first-measure-number>1</first-measure-number>
